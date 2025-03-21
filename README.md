@@ -1,6 +1,6 @@
 # web-crawler-threaded
 
-Paralelização da Geração de Fractais
+Buscando palavras em um site (crawler com threads)
 
 **Arquivos:**
 - `Exercicio02-Base.py`
